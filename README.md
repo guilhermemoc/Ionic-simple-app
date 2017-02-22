@@ -1,8 +1,5 @@
-## Github Ionic
-This is a sample Ionic 2 App that consumes the github API. To follow instructions on how to build it, read this article [Build a mobile app with angular 2 and ionic 2](https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2)
+## Teste Guilherme Martins
 
-## Run the app
-Make sure you have [nodejs](https://nodejs.org/en/) installed.
 
 Install typecript
 ```bash

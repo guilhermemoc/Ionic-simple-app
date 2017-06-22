@@ -1,7 +1,6 @@
-## Teste Guilherme Martins
+## Ionic Simple App
 
-
-Install typecript
+Install typescript
 ```bash
 $ npm install -g typescript
 ```
